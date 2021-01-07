@@ -1,4 +1,4 @@
-# (외부 Open API) SSML
+# (외부 Open API) SSML (KAKAO_SSML_GUIDE 이용)
 
 + 정의 및 정책
   - SSML 지원 tag, attribute
